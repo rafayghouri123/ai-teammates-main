@@ -8,7 +8,7 @@
 
 AI teammates with a job, a memory and a cloud computer of their own.
 
-[![Watch the full tutorial on YouTube](https://img.shields.io/badge/Watch_the_full_tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mQBuZ6Dp0u0)
+
 
 [![Trigger.dev](https://img.shields.io/badge/Trigger.dev-121317?style=for-the-badge&labelColor=121317&color=41FF54)](https://cwa.run/trigger-1)
 [![Daytona](https://img.shields.io/badge/Daytona-0A0A0A?style=for-the-badge)](https://cwa.run/daytona)
@@ -26,9 +26,7 @@ AI teammates with a job, a memory and a cloud computer of their own.
 
 AI Teammates is an open exploration of that idea. Every prompt, tool and limit is a file in this repository, with auth, billing, usage metering and observability already in place, so you start from a working product and change whatever you like.
 
-## 🎬 Watch it being built
 
-[![How I Build AI Teammates With Claude Code - Grok Bot Clone](https://img.youtube.com/vi/mQBuZ6Dp0u0/maxresdefault.jpg)](https://www.youtube.com/watch?v=mQBuZ6Dp0u0)
 
 ## ✨ Features
 
@@ -97,7 +95,6 @@ You need Node.js 20.12+ and an account with [Clerk](https://cwa.run/clerk), [Neo
 **1. Clone and install**
 
 ```bash
-git clone https://github.com/code-with-antonio/ai-teammates.git
 cd ai-teammates
 npm install
 ```
